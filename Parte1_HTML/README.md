@@ -269,3 +269,9 @@ Construiremos un **formulario** de contacto Dentro del `main`, utilizando las et
 ## Próximos pasos:
 
 #### Ahora que tienes el esqueleto funcional, es hora de comenzar con CSS para darle estilo y un diseño atractivo a tu página.
+
+## Puedes ver el resultado final en cualquiera de estas 2 direcciones
+
+- https://daroponce21.github.io/FrontEnd-Js-Curso/Parte1_HTML/index.html
+
+- https://mundoperegrino.netlify.app/parte1_html/
